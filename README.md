@@ -1,1 +1,3 @@
-# DevOps-CrashCourse
+# DevOps Crash Course Lab
+
+Viktoriia Shyndyruk
